@@ -1,1 +1,1 @@
-# handleBar demo, master version aka pre firebase
+# handleBar demo, branch version  aka post firebase
